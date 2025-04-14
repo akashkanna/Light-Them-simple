@@ -46,6 +46,7 @@
 .iconsoc:hover::before {
   scale: 0;
 }
+/*New MEADIA QURIE ADDED*/
 @media screen and (max-width: 600px){
   .iconsoc {
   width: 3.625rem;
