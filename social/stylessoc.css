@@ -48,8 +48,13 @@
 }
 @media screen and (max-width: 600px){
   .iconsoc {
-  width: 5.625rem;
-  height: 5.625rem;
+  width: 3.625rem;
+  height: 3.625rem;
   }
-
-}
+  @media screen and (min-width: 600px){
+    .iconsoc {
+    width: 3.625rem;
+    height: 3.625rem;
+    }
+  
+  }}
