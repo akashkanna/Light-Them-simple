@@ -51,11 +51,23 @@
   .iconsoc {
   width: 3.625rem;
   height: 3.625rem;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  flex-wrap: nowrap;
   }
   @media screen and (min-width: 600px){
     .iconsoc {
-    width: 3.625rem;
-    height: 3.625rem;
+      width: 3.625rem;
+      height: 3.625rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    flex-wrap: nowrap;
     }
   
   }}
